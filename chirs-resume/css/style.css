@@ -312,6 +312,24 @@ a {
 .content-hd .skill-level .i-less .out {
   flex: 4;
 }
+.content-hd .skill-level .i-OOP .in {
+  flex: 6.5;
+}
+.content-hd .skill-level .i-OOP .out {
+  flex: 3.5;
+}
+.content-hd .skill-level .i-JQ .in {
+  flex: 7;
+}
+.content-hd .skill-level .i-JQ .out {
+  flex: 3;
+}
+.content-hd .skill-level .i-AJAX .in {
+  flex: 8;
+}
+.content-hd .skill-level .i-AJAX .out {
+  flex: 2;
+}
 .content-hd .skill-level .i-c .in {
   flex: 3.5;
 }
